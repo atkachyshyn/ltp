@@ -1,0 +1,2 @@
+serverAddress: ":8080"
+krakenAPIURL: "https://api.kraken.com/0/public/Ticker?pair=XXBTZUSD,XXBTZEUR"
